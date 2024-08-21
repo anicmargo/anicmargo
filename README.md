@@ -6,6 +6,8 @@
 
 - eu estou em desenvolvimento para aprimorar meus conhecimentos.
 
+- ![](https://media.tenor.com/9K-KQIgn28QAAAAi/my-melody.gif)
+
 - https://media.tenor.com/9K-KQIgn28QAAAAi/my-melody.gif
 
 <!--
