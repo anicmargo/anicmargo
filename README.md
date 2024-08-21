@@ -1,4 +1,12 @@
-## hello, welcome! 
+## hello, welcome!
+
+- eu me chamo ani, mas pode me chamar de nani!! 🌻
+
+- eu estou estudando pelo alura!
+
+- eu estou em desenvolvimento para aprimorar meus conhecimentos.
+
+- https://media.tenor.com/9K-KQIgn28QAAAAi/my-melody.gif
 
 <!--
 **anicmargo/anicmargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
